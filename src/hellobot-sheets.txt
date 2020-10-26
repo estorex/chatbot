@@ -1,0 +1,23 @@
+     /*    /*if (!isset($email)) {
+        header("Location: signup.php");
+    }*/
+     
+        //$_SESSION["msgs"][] = $msg;
+     $nlp = explode("wit$", $witAns);
+         $nlpb = explode('"', $nlp[1]);
+         $nlpConfi = explode("confidence", $witAns);
+         $nlpbConfi = explode("}", $nlpbConfi[1]);
+         $nlpcConfi = str($nlpbConfi[0];*/
+        /* $hellos = array("Hello", "HELLO", "hello", "Hi", "hi", "greetings", "good morning", "good afternoon", "good day", "hey");
+         foreach ($nlp as $word) {
+         if (in_array($word, $hellos)) {
+         $answer = "Hello there, I'm Hellobot";
+         }
+         }*/
+         
+         
+    //$chat->read_msg_sql("hellobot", $me);
+    //exit(var_dump($_SESSION["msgs"]) . $msg);
+        //$pk_witans = $q;
+    //array('text': 'yo', 'intents':[], 'entities':{"wit$sentiment":[{"id":'a-b-c-d-e', "value":"neutral", "confidence":0.5356}], 
+    //"wit$greetings":[{"id":"a-b-c-d", "value":"true", "confidence:0.99"
