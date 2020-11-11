@@ -5,3 +5,6 @@ So it uses some of its data to analyze the interactions of Hellobot. Such as the
 The responses may also use various other estimators such as the sentiment evaluation. 
 In order to use the chatbot, all you have to do is follow through to https://passkart.com/hellobot
 If you would like to install it on your server, you can access it from the main folder. 
+The quickbase website offers api functionality.
+Hellobot is expandable to mobile apps (ios, android)
+There is a short video showing access to the chatbot. It can be improved (https://vimeo.com/472345061).
